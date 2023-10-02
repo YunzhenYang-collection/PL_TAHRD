@@ -10,6 +10,7 @@
 ## 課程筆記區
 *   [0914課堂練習](https://github.com/41171119H/PL_TAHRD/tree/main/0914)
 *   [0928課堂練習](https://colab.research.google.com/drive/1BwN3IkpMHUKH1NdBPtNNlQDSwoFVNqOi?usp=drive_link)
+*   [matplotlib色卡](https://blog.csdn.net/nankai0912678/article/details/105409615)
 ## 作業連結區
 ## 專題連結區
 
