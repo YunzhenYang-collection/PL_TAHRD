@@ -17,5 +17,6 @@
   
 ## 作業連結區
 *  [HW1](https://colab.research.google.com/drive/1O_tKv-tV3IPrJF9J2Z0eYNfpBJAviAaL#scrollTo=4OTBgSnra6Va)
+*  [HW2](https://colab.research.google.com/drive/10q0CJ5JnVW8BXPRpE1mczRAKocTSNav7#scrollTo=qZrcf0BbcSgq)
 ## 專題連結區
 
