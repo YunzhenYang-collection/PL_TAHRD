@@ -8,6 +8,7 @@
 系級：科技系 二年級
 
 ## 課程筆記區
+*   [Markdwon教學](https://markdown.com.cn/extended-syntax/emoji.html)
 *   [0914課堂練習](https://github.com/41171119H/PL_TAHRD/tree/main/0914)
 *   [0928課堂練習](https://colab.research.google.com/drive/1BwN3IkpMHUKH1NdBPtNNlQDSwoFVNqOi?usp=drive_link)
 
