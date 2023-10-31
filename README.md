@@ -18,6 +18,6 @@
 ## 作業連結區
 *  HW1 將csv資料匯入python： [:paperclip:colab link](https://colab.research.google.com/drive/1O_tKv-tV3IPrJF9J2Z0eYNfpBJAviAaL#scrollTo=4OTBgSnra6Va)
 *  HW2 從資料提出三個問題並進行比較：[:paperclip:colab](https://colab.research.google.com/drive/10q0CJ5JnVW8BXPRpE1mczRAKocTSNav7#scrollTo=qZrcf0BbcSgq)
-*  HW3 網頁爬蟲練習：[:paperclip:colab](https://colab.research.google.com/drive/15ZW7g5P0Q7Ltr1OA4hkCL6uHeqFmbv8u?usp=sharing)
+*  HW3 網頁爬蟲練習：[:paperclip:colab](https://colab.research.google.com/drive/15ZW7g5P0Q7Ltr1OA4hkCL6uHeqFmbv8u?usp=sharing)     📁 [csv檔案](hw03.csv)
 ## 專題連結區
 
