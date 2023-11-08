@@ -20,6 +20,7 @@
 *  HW1 將csv資料匯入python： [:paperclip:colab link](https://colab.research.google.com/drive/1O_tKv-tV3IPrJF9J2Z0eYNfpBJAviAaL#scrollTo=4OTBgSnra6Va)
 *  HW2 從資料提出三個問題並進行比較：[:paperclip:colab](https://colab.research.google.com/drive/10q0CJ5JnVW8BXPRpE1mczRAKocTSNav7#scrollTo=qZrcf0BbcSgq)
 *  HW3 網頁爬蟲練習：[:paperclip: colab](https://colab.research.google.com/drive/15mubyXFhCQuTQzwiI0YQSKxfYbbdc1YY?usp=sharing)     📁 [csv檔案](hw03_pts_news)
+*  HW4 文字視覺化(文字雲) [Medium](https://medium.com/@yyzformal1600/%E5%B0%87python%E7%88%AC%E8%9F%B2%E7%B5%90%E6%9E%9C%E8%A6%96%E8%A6%BA%E5%8C%96-%E6%96%87%E5%AD%97%E9%9B%B2-word-cloud-ffef7d4c6192)
   
 ## 專題連結區
 * 抓取台股資料模組：[:paperclip: colab](https://colab.research.google.com/drive/15ZW7g5P0Q7Ltr1OA4hkCL6uHeqFmbv8u?usp=sharing)     📁 [csv檔案](hw03_twstock_csv)
