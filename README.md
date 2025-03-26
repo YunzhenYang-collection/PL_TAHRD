@@ -1,3 +1,5 @@
+**Transfer from @[41171119H](https://github.com/41171119H) at 2025/03/26**
+
 # 112-1-PL
 112-1 師大科技系程式語言
 
@@ -24,5 +26,4 @@
 *  HW5 文字視覺化2 [Medium](https://medium.com/@yyzformal1600/python資料視覺化-比較各區域醫療資源數量及結構-84b55d62f9b6)  [程式碼](https://colab.research.google.com/drive/1ku6kfsjRnohThYXwuhWwK1ngiXDoyB6T#scrollTo=cLBiaRLmJt9G)
 * 抓取台股資料模組：[:paperclip: colab](https://colab.research.google.com/drive/15ZW7g5P0Q7Ltr1OA4hkCL6uHeqFmbv8u?usp=sharing)     📁 [csv檔案](hw03_twstock_csv)
   
-## 專題連結區
 
